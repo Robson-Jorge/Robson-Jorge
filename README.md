@@ -1,3 +1,8 @@
+<h1>Robson Souza Jorge - Desenvolvedor Frontend </h1> <br>
+Olá e bem-vindo ao meu repositório! Aqui, você encontrará uma coleção dos projetos em que tenho trabalhado e contribuído. Este espaço reflete minha jornada no desenvolvimento web, onde estou constantemente explorando novas tecnologias e aprimorando minhas habilidades.
+<br><br>
+Cada projeto é uma oportunidade para aprender e crescer, e estou empolgado em compartilhar meua progressoa e contribuições com a comunidade. Sinta-se à vontade para explorar, fornecer feedback ou colaborar em qualquer um dos projetos. Obrigado por visitar e fazer parte desta jornada!
+<br><br><br>
 <div>
   <a href="https://github.com/Robson-jorge">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Robson-Jorge&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
